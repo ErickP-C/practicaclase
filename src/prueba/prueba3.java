@@ -8,6 +8,6 @@ package prueba;
  *
  * @author LAB-USR-CAQP-C0204
  */
-public class Prueba2 { 
-     
+public class prueba3 {
+    
 }
